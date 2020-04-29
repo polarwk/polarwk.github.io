@@ -4,7 +4,7 @@ title: "Recommendation"
 permalink: /recommendation/
 author_profile: true
 redirect_from:
-  - /resume
+  - /papers
 ---
 
 {% include base_path %}
