@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I obtained my B.E. of Computer Science and Technology at China University of Petroleum (Beijing) in 2015.
+Now, I am studying for a Ph.D. at Fudan University, under supervision of Dr. WeiLi Han.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+My research interests include privacy protection, privacy compliance.
+
