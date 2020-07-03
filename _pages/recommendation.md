@@ -11,7 +11,7 @@ redirect_from:
 
 Paper Recommendation
 ======
-I am interested in privacy compliance problem data analysis on the Blockchain. Here list some related papers I recommend.
+I am interested in data analysis on the Blockchain. Here list some related papers I recommend.
 
 ## Data mining and Analysis
 * Chen W, Wu J, Zheng Z, et al. Market manipulation of bitcoin: evidence from mining the Mt. Gox transaction network, IEEE INFOCOM 2019-IEEE Conference on Computer Communications(INFOCOM). IEEE, 2019: 964-972. [(paper)](https://ieeexplore.ieee.org/abstract/document/8737364)
