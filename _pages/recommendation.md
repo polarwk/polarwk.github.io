@@ -10,10 +10,10 @@ redirect_from:
 
 Paper Recommendation
 ======
-My research interests include MPC, and federated learning. Here list some related papers I recommend.
+My research interests include data analysis on the blockchain and the combination of blockchain and multi-party secure computing. Here list some related papers I recommend.
 
-## Security Protocol
-* [How to generate and exchange sectrts](https://ieeexplore.ieee.org/abstract/document/4568207/)
+## Data mining and Analysis
+* Chen W, Wu J, Zheng Z, et al. Market manipulation of bitcoin: evidence from mining the Mt. Gox transaction network, IEEE INFOCOM 2019-IEEE Conference on Computer Communications(INFOCOM). IEEE, 2019: 964-972. [(paper)](https://ieeexplore.ieee.org/abstract/document/4568207/)
 * [How to share a secret](https://dl.acm.org/doi/abs/10.1145/359168.359176)
 * [Secret-sharing schemes: a survey](https://link.springer.com/chapter/10.1007/978-3-642-20901-7_2)
 * [Correlated pseudorandomness and the complexity of private computations](https://www.csa.iisc.ac.in/~arpita/StudyGroupOT15/BeaSTOC96.pdf)
