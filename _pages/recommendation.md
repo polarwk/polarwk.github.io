@@ -59,6 +59,6 @@ My research interests include data analysis on the blockchain and the combinatio
 * Milajerdi S M, Eshete B, Gjomemo R, et al. Poirot: Aligning attack behavior with kernel audit records for cyber threat hunting, Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security(CCS). 2019: 1795-1812. [(paper)](https://dl.acm.org/doi/abs/10.1145/3319535.3363217)
 * Li Z, Chen Q A, Xiong C, et al. Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts, Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security(CCS). 2019: 1831-1847. [(paper)](https://dl.acm.org/doi/abs/10.1145/3319535.3363187)
 * Apostolaki M, Zohar A, Vanbever L. Hijacking bitcoin: Routing attacks on cryptocurrencies, 2017 IEEE Symposium on Security and Privacy (SP). IEEE, 2017: 375-392. [(paper)](https://ieeexplore.ieee.org/abstract/document/7958588/)
-* Heilman E, Kendler A, Zohar A, et al. Eclipse attacks on bitcoin’s peer-to-peer network, 24th {USENIX} Security Symposium ({USENIX} Security 15). 2015: 129-144. [(paper)](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/heilman)## ## 
+* Heilman E, Kendler A, Zohar A, et al. Eclipse attacks on bitcoin’s peer-to-peer network, 24th {USENIX} Security Symposium ({USENIX} Security 15). 2015: 129-144. [(paper)](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/heilman)
 
 
