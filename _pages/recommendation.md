@@ -8,19 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-Paper Recommendation
-======
-My research interests include data analysis on the blockchain and the combination of blockchain and multi-party secure computing. Here list some related papers I recommend.
-
----
-layout: archive
-permalink: /recommendation/
-author_profile: true
-redirect_from:
-  - /papers
----
-
-{% include base_path %}
 
 Paper Recommendation
 ======
