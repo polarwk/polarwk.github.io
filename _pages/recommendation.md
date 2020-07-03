@@ -11,7 +11,7 @@ redirect_from:
 
 Paper Recommendation
 ======
-My research interests include data analysis on the blockchain and the combination of blockchain and multi-party secure computing. Here list some related papers I recommend.
+My research interests include data analysis on the Blockchain and the combination of Blockchain and MPC. Here list some related papers I recommend.
 
 ## Data mining and Analysis
 * Chen W, Wu J, Zheng Z, et al. Market manipulation of bitcoin: evidence from mining the Mt. Gox transaction network, IEEE INFOCOM 2019-IEEE Conference on Computer Communications(INFOCOM). IEEE, 2019: 964-972. [(paper)](https://ieeexplore.ieee.org/abstract/document/8737364)
