@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lushan Song"
+title                    : "Kai Wang"
 title_separator          : "-"
-name                     : &name "Lushan Song"
+name                     : &name "Kai Wang"
 description              : &description "I am a PhD student at Fudan university"
-url                      : https://sls33.github.io/33.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://16302010035.github.io/polarwk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sls33/33.github.io"
+repository               : "16302010035/polarwk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lushan Song"
+  name             : "Kai Wang"
   avatar           : "profile.png"
   bio              : 
   location         : "ShangHai, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "sls0305@163.com"
+  email            : "16302010035@fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sls33"
+  github           : "16302010035"
   google_plus      :
   keybase          :
   instagram        :
