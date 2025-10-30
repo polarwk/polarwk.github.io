@@ -17,3 +17,4 @@ author_profile: true
 
 # Publication
 
+* Kai Wang, Michael Wen Tong, Jun Pang, Jitao Wang, Weili Han. XRAD: Ransomware Address Detection Method based on Bitcoin Transaction Relationships. ACM Transactions on the Web (TWEB), 2024.
