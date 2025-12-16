@@ -10,5 +10,5 @@ redirect_from:
 
 Education
 ======
-* B.E. in Software School, Fudan University, 2020
-* Ph.D in Data Security and Privacy Protection, Fudan University, 2025
+* B.E. in Software School, Fudan University, 2016-2020
+* Ph.D in Data Security and Privacy Protection, Fudan University, 2020-2025
