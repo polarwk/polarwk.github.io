@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I received my B.E. degree from the School of Software at Fudan University in 2020. Subsequently, I obtained my Ph.D. from Fudan University in 2025, under the supervision of [Dr. WeiLi Han](https://faculty.fudan.edu.cn/weili/zh_CN/index.htm).
+I received my B.E. degree from the School of Software at Fudan University in 2020. Subsequently, I obtained my Ph.D. from Fudan University in 2025, under the supervision of [Dr. Weili Han](https://faculty.fudan.edu.cn/weili/zh_CN/index.htm).
 
 My research interests are centered on the security and scalability of decentralized networks. I have a strong focus on Blockchain Data Analysis, utilizing graph theory and machine learning to interpret complex on-chain behaviors.
 
